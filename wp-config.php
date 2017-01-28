@@ -26,7 +26,7 @@ define('DB_NAME', '4cent4');
 define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'Passer@1');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
